@@ -1,0 +1,23 @@
+tag used
+    header
+    h1
+    nav
+    ul
+    li
+    main
+    p
+    script
+    h2
+    button
+CSS styles used
+    h1
+    nav > ul > li > a
+    header > h1> picture
+    img.small
+    li.flex
+    ul.head
+    .styled-link
+    .center-box
+    .column
+The java script is used to make the spinning cat on the index page by swapping the two image (I tried to find a way to make it with only one image and flip it with a script but can't figure out how)
+Bootstraps is used for the hobby page accordian
